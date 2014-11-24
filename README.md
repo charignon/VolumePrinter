@@ -1,8 +1,7 @@
 VolumePrinter
 =============
 
-Print volumes for US recipe in a friendly way
-
+Operate and print in a friendly fashion US standard volume measures.
 
 Usage
 =====
